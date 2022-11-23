@@ -26,20 +26,8 @@
 </p>
 
 ---
-<summary><b>👓&nbsp;&nbsp;3D Profile</b></summary> <br/>
-
-<p align="center">
-  <a href="./profile-3d-contrib/profile-night-green.svg">
-    <img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-  </a>
-</p>
-
----
 <summary><b>📈&nbsp;&nbsp;Contribution graph</b></summary> <br/>
 
 <p align="center"> <img width="900em" src="https://activity-graph.herokuapp.com/graph?username=ettore9x9&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Github Graph" /> </p> 
 
 ---
-<summary><b>🐍&nbsp;&nbsp;Snake</b></summary> <br/>
-
-![Snake animation](https://github.com/ettore9x9/ettore9x9/blob/output/github-contribution-grid-snake.svg)
