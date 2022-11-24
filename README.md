@@ -21,14 +21,14 @@
 <p align="center"
 <a href="https://github.com/ettore9x9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ettore9x9&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ettore9x9&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ettore9x9&theme=noctis_minimus&layout=compact&hide=jupyter%20notebook" />
 </a>
 </p>
 
 ---
 <summary><b>📈&nbsp;&nbsp;Contribution graph</b></summary> <br/>
 
-<p align="center"> <img width="900em" src="https://activity-graph.herokuapp.com/graph?username=ettore9x9&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true&hide=jupyter%20notebook" alt="Github Graph" /> </p> 
+<p align="center"> <img width="900em" src="https://activity-graph.herokuapp.com/graph?username=ettore9x9&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Github Graph" /> </p> 
 
 ---
 
