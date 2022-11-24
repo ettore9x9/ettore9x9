@@ -1,6 +1,9 @@
-### Hi there
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
+<div align="center">
+   <h1>Hi there, I'm Ettore <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
+
+<summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+
   <p align="left"> 
   <a href="https://git-scm.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -13,7 +16,9 @@
   <a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
   <a href="https://www.docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
 ---
+
 <summary><b>🔥&nbsp;&nbsp;My Stats</b></summary> <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=ettore9x9) [![Github](https://img.shields.io/github/followers/ettore9x9?label=Follow&style=social)](https://github.com/ettore9x9)
